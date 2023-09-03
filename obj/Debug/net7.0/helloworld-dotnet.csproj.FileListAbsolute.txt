@@ -1,0 +1,14 @@
+/Users/gracie/helloworld-dotnet/bin/Debug/net7.0/helloworld-dotnet
+/Users/gracie/helloworld-dotnet/bin/Debug/net7.0/helloworld-dotnet.deps.json
+/Users/gracie/helloworld-dotnet/bin/Debug/net7.0/helloworld-dotnet.runtimeconfig.json
+/Users/gracie/helloworld-dotnet/bin/Debug/net7.0/helloworld-dotnet.dll
+/Users/gracie/helloworld-dotnet/bin/Debug/net7.0/helloworld-dotnet.pdb
+/Users/gracie/helloworld-dotnet/obj/Debug/net7.0/helloworld-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gracie/helloworld-dotnet/obj/Debug/net7.0/helloworld-dotnet.AssemblyInfoInputs.cache
+/Users/gracie/helloworld-dotnet/obj/Debug/net7.0/helloworld-dotnet.AssemblyInfo.cs
+/Users/gracie/helloworld-dotnet/obj/Debug/net7.0/helloworld-dotnet.csproj.CoreCompileInputs.cache
+/Users/gracie/helloworld-dotnet/obj/Debug/net7.0/helloworld-dotnet.dll
+/Users/gracie/helloworld-dotnet/obj/Debug/net7.0/refint/helloworld-dotnet.dll
+/Users/gracie/helloworld-dotnet/obj/Debug/net7.0/helloworld-dotnet.pdb
+/Users/gracie/helloworld-dotnet/obj/Debug/net7.0/helloworld-dotnet.genruntimeconfig.cache
+/Users/gracie/helloworld-dotnet/obj/Debug/net7.0/ref/helloworld-dotnet.dll
